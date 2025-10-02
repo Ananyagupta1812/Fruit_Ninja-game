@@ -14,8 +14,8 @@ A simple yet engaging Fruit Ninja clone implemented in Python using Pygame, insp
 -Pygame library installed via pip install pygame
 
 ### 🛠️ How to Run
-git clone https://github.com/YourUsername/Fruit_Ninja_Game_Python.git </br>
-cd Fruit_Ninja_Game_Python</br>
+git clone https://github.com/Ananyagupta1812/Fruit_Ninja-game </br>
+cd Fruit_Ninja-game</br>
 pip install pygame</br>
 python fruit_ninja.py</br>
 
